@@ -1,0 +1,10 @@
+Student Mangement
+    here i have done CURD operation
+create a infinte loop it will run untill user press 5
+
+   1st==> i took a data of student
+    2nd==>  i display the data
+     3rd==> i updated the data
+      4th==>i deleted the dation it ta
+i have used switch case for assing opertion according to the cases;
+here i have used linkedlist because fro optimisation because if we use arraylist ,in deletion it will create a time complexity
