@@ -1,1 +1,3 @@
-
+This is a simple Library Management System in Java that lets users issue, return, and view books through a menu that runs in a loop until the user chooses to exit. 
+It uses a switch-case to handle different options like adding book details, showing all books, and removing a book by its ID.
+A LinkedList is used to store book records because it’s better for adding and removing items compared to an ArrayList, making the program faster and more efficient when returning books.
