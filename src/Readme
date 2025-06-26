@@ -1,0 +1,7 @@
+Calc project
+   operation done is add,sub,multiply,division,remainder(modulo)
+    data for these operation are taken from users using Scanner class
+   i have used switch cases for optimisation
+   for each case i have assigned one operation 
+By using these methods and ideology i have wrote program
+   
